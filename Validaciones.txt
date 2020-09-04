@@ -1,0 +1,8 @@
+Validaciones
+1. Cliente: (HTML, CSS, JS) <-- expresiones regulares (pattern)
+
+2. Servidor: (PHP)   <-- expresiones regulares (pattern)
+
+3. Base de datos:
+
+ 
